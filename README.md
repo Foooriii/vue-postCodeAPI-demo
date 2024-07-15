@@ -1,4 +1,5 @@
-# 郵便番号から住所自動入力を行う
+# Vue3 Auto-fill address from postal code
+
 ## Project Setup
 
 ```sh
